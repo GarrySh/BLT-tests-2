@@ -1,8 +1,9 @@
 # Тестовое задание 2
 
 [Демо версия](https://garrysh.github.io/BLT-tests-2/)
+
 [![Build Status](https://travis-ci.org/GarrySh/BLT-tests-2.svg?branch=master)](https://travis-ci.org/GarrySh/BLT-tests-2)
-[![Maintainability](https://api.codeclimate.com/v1/badges/e45a534f9e3a451db84a/maintainability)](https://codeclimate.com/github/GarrySh/BLT-tests-2/maintainability
+[![Maintainability](https://api.codeclimate.com/v1/badges/e45a534f9e3a451db84a/maintainability)](https://codeclimate.com/github/GarrySh/BLT-tests-2/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/e45a534f9e3a451db84a/test_coverage)](https://codeclimate.com/github/GarrySh/BLT-tests-2/test_coverage)
 
 ## Задача
